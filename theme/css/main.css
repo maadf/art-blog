@@ -55,7 +55,7 @@ pre {
 
   text-align: center;
   font-size: 10px;
-  position:fixed;
+  position:absolute;
   bottom: 50px;
   left:0px;
   height:30px;
