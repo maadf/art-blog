@@ -26,7 +26,6 @@ h6 a { color: inherit !important }
 
 h1 {
 font-size: 30px;
-
 }
 
 #menu li {
@@ -53,6 +52,17 @@ pre {
 }
 
 .face{
+
+  text-align: center;
+  font-size: 10px;
+  position:fixed;
+  bottom: 50px;
+  left:0px;
+  height:30px;
+  width:100%;
+}
+
+.footerimage{
 
   text-align: center;
   font-size: 10px;
