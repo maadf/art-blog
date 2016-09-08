@@ -24,6 +24,11 @@ h4 a { color: inherit !important }
 h5 a { color: inherit !important }
 h6 a { color: inherit !important }
 
+h1 {
+font-size: 30px;
+
+}
+
 #menu li {
     display: inline;
 }
