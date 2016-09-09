@@ -14,7 +14,7 @@ body {
 }
 
 a:link    { color: grey; text-decoration: none;      }
-a:hover   { color: grey; text-decoration: underline; }
+a:hover   { color: cadetblue; text-decoration: underline; }
 a:visited { color: grey;                             }
 
 h1 a { color: inherit !important }
@@ -51,11 +51,11 @@ pre {
   font-size: 10px;
 }
 
-.face{
 
+.face{
   text-align: center;
   font-size: 10px;
-  position:absolute;
+  position:fixed;
   bottom: 50px;
   left:0px;
   height:30px;
